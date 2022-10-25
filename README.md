@@ -3,11 +3,11 @@ This README contains documentation of the trying and difficult CAD asssignments.
 ## Table of Contents
 * [Propeller on a Ring](#Propeller_on_a_Ring)
 * [Swing Arm](#Swing_Arm)
-* [Multi-Part Studio](#Multi-Part_Studio)
+* [Multi-Part_Studio](#Multi-Part_Studio)
 
 ---
 
-## Propeller on a ring
+## Propeller_on_a_ring
 
 ### Description and Images
 In this project we collaborated with a partner to create different parts of a ring and key that can make a propeller fly. 
@@ -22,7 +22,7 @@ A helpful thing that I learned from this assignment was how to do a section view
 
 ---
 
-## Swing Arm
+## Swing_Arm
 
 ### Description and Images
 In this assignment we practiced for the onshape certification test by creating a part in onshape off of a few measurements from a drawing. Then for the second step we changed 3 dimensions and tried to make it not break the design.
@@ -37,7 +37,7 @@ https://cvilleschools.onshape.com/documents/7a77ab1514c3519f124e6bb0/w/1424e7798
 Always make constraints before measurements if possible. Try to make as few measurements as you can in onshape unless it is specificaly stated. TYP means typical and tells you that all other instances that look the same have the same measurement. Variables are a helpful tool when you want to make similar parts that are slightly different because they have a few measurements that are different.
 ---
 
-## Multi-Part Studio
+## Multi-Part_Studio
 
 ### Description and Images
 This was another practice for the onshape certification but this time we had to make multiple parts in one studio.
