@@ -1,7 +1,7 @@
 # Intermediate_CAD
 This README contains documentation of the trying and difficult CAD asssignments. Please note that I am much better at code than CAD so if I were you I would not try to learn from my documentation.
 ## Table of Contents
-* [Hello_CircuitPython](#Hello_CircuitPython)
+* [Propeller on a Ring](#Propeller_on_a_Ring)
 * [CircuitPython_Servo](#CircuitPython_Servo)
 * [CircuitPython_LCD](#CircuitPython_LCD)
 
