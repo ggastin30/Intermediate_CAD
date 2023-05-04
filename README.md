@@ -69,3 +69,10 @@ This was another practice for the onshape certification but this time we had to 
 
 ### Reflection
 You can create multiple parts in a studion and it makes it much easier, especially if those parts are related. It's best to create measurements off of other parts that they are related to so that if you change one thing, it changes everything. When looking at sketches, make sure to figure out which ones would be best to create first. Think about which ones are the base of the whole design.
+
+# Onshape Certification
+### Link to certificate for onshape:
+https://ti-user-certificates.s3.amazonaws.com/6e557ed6-d03d-4c48-9492-4d18d145d7a1/365d5964-31f1-4b4f-bffc-35df52d55413-grant-gastinger-49b2a898-9e72-4583-ac8b-93c1610980e0-certificate.pdf
+
+### Reflection
+The prep for the onshape certification test was unbelivably helpful. Most of the CAD in the actual test was almost the same as the prep. The actual test was not that bad because if you can just get the first mass for each part, you should be able to get all of the parts of the question. Another tip is to use google to its fullest extent. On many of the multiple choice questions you can find the answer online just by knowing how to search things up well. Overall, the Onshape Certification Exam is a lot easier than it seems if you have been doing all of the CAD assignments in class.
