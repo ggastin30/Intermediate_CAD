@@ -4,6 +4,7 @@ This README contains documentation of the trying and difficult CAD asssignments.
 * [Propeller on a Ring](#Propeller_on_a_Ring)
 * [Swing Arm](#Swing_Arm)
 * [Multi-Part_Studio](#Multi-Part_Studio)
+* [Onshape_Certification](#Onshape_Certification)
 
 ---
 
@@ -70,7 +71,7 @@ This was another practice for the onshape certification but this time we had to 
 ### Reflection
 You can create multiple parts in a studion and it makes it much easier, especially if those parts are related. It's best to create measurements off of other parts that they are related to so that if you change one thing, it changes everything. When looking at sketches, make sure to figure out which ones would be best to create first. Think about which ones are the base of the whole design.
 
-# Onshape Certification
+# Onshape_Certification
 ### Link to certificate for onshape:
 https://ti-user-certificates.s3.amazonaws.com/6e557ed6-d03d-4c48-9492-4d18d145d7a1/365d5964-31f1-4b4f-bffc-35df52d55413-grant-gastinger-49b2a898-9e72-4583-ac8b-93c1610980e0-certificate.pdf
 
